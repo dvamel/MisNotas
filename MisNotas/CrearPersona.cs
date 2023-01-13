@@ -60,11 +60,11 @@
         {
             try
             {
-                if (rbtCliente.Checked == true)
+//if (rbtCliente.Checked == true)
                     pTipo = 2;
 
-                if (rbtUsuario.Checked == true)
-                    pTipo = 1;
+                //if (rbtUsuario.Checked == true)
+                //    pTipo = 1;
 
                 Personas pe = new Personas();
                 pe.Tipo = pTipo;
