@@ -17,8 +17,6 @@ namespace MisNotas
         public SqlConnection AbrirConexionBd()
         {
 
-            
-
             try
             {
                 if(cn.State == ConnectionState.Closed)
