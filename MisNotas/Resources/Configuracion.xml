@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<configuracioninicial>
+  <servidor conexion="Server=DESARROLLO2\DEV21; DataBase=MisNotas; User ID=sa; Password=Soluciondig2003."> </servidor>
+  <rutas carpetadeadjuntostemporal="dd"></rutas>
+	
+</configuracioninicial>
